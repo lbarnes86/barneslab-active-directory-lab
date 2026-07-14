@@ -220,7 +220,7 @@ Get-ADUser -Filter * | Select Name, SamAccountName
 
 This lab is Phase 1 of a multi-phase project. Phase 2 adds a Splunk SIEM layer for security monitoring:
 
-➡️ [BarnesLab SOC — Splunk SIEM + Attack Detection Lab](#) *(see repository)*
+➡️ [BarnesLab SOC — Splunk SIEM + Attack Detection Lab](https://github.com/lbarnes86/barneslab-soc-splunk-siem) *(see repository)*
 
 **Planned additions:**
 - Sysmon deployment on DC and WKSTN1 for enhanced endpoint telemetry
