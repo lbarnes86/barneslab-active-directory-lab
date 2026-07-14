@@ -10,7 +10,7 @@ BarnesLab is a self-built virtual enterprise lab environment created using VMwar
 
 ## Demo Video
 
-[Watch the SteeleLab build demo](https://youtube.com)
+[Watch the BarnesLab build demo](https://youtube.com)
 
 
 
