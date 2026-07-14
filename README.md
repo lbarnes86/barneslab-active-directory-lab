@@ -8,7 +8,7 @@
 
 BarnesLab is a self-built virtual enterprise lab environment designed to simulate a real-world corporate Active Directory infrastructure. Built using VMware Workstation Pro and Windows Server 2022, this lab demonstrates hands-on proficiency in Windows Server administration, Active Directory Domain Services, DNS, Group Policy, file services, and domain-joined endpoint management.
 
-This project was built to strengthen practical skills aligned with Systems Administrator, Cloud Administrator, and IT Infrastructure Engineer roles — and to demonstrate working knowledge that goes beyond certifications alone.
+This project was built to strengthen practical skills aligned with Systems Administrator, Cloud Administrator, and IT Infrastructure Engineer roles and to demonstrate working knowledge that goes beyond certifications alone.
 
 📺 **Demo Video:** [Watch the BarnesLab Build Walkthrough on YouTube](#) *(link coming soon)*
 
