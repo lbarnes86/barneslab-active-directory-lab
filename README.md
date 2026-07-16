@@ -211,7 +211,6 @@ Get-ADUser -Filter * | Select Name, SamAccountName
 - `ad-structure.png` — Active Directory Users and Computers showing OU hierarchy
 - `domain-join-success.png` — WKSTN1 welcome to domain confirmation
 - `gpo-applied.png` — gpresult output showing applied policies
-- `dns-manager.png` — DNS forward lookup zone for barneslab.local
 - `whoami-output.png` — Terminal showing BARNESLAB\jsmith authenticated
 
 ---
