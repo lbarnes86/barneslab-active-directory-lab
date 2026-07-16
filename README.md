@@ -10,7 +10,7 @@ BarnesLab is a self-built virtual enterprise lab environment designed to simulat
 
 This project was built to strengthen practical skills aligned with Systems Administrator, Cloud Administrator, and IT Infrastructure Engineer roles and to demonstrate working knowledge that goes beyond certifications alone.
 
-📺 **Demo Video:** [Watch the BarnesLab Build Walkthrough on YouTube](https://youtu.be/kLVHKSwqPe4) <a href="[https://example.com](https://youtu.be/kLVHKSwqPe4)" target="_blank" rel="noopener noreferrer">Opens in new tab</a>
+📺 **Demo Video:** [Watch the BarnesLab Build Walkthrough on YouTube](https://youtu.be/kLVHKSwqPe4) <a href="[https://youtu.be/kLVHKSwqPe4]" target="_blank" rel="noopener noreferrer">Opens in new tab</a>
 
 ---
 
