@@ -12,6 +12,8 @@ This project was built to strengthen practical skills aligned with Systems Admin
 
 📺 **Demo Video:** [Watch the BarnesLab Build Walkthrough on YouTube](https://youtu.be/kLVHKSwqPe4) <a href="[https://youtu.be/kLVHKSwqPe4]" target="_blank" rel="noopener noreferrer">Opens in new tab</a>
 
+<a href="https://github.com" target="_blank" rel="noopener noreferrer">Visit GitHub</a>
+
 ---
 
 ## Lab Architecture
